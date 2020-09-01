@@ -8,7 +8,7 @@ public class DemoTest {
   @Test
   public void testCase01() {
 	  
-	  System.out.println("Maven Example");
+	  System.out.println("Maven Example upload to GIT");
   }
   @BeforeTest
   public void beforeTest() {
